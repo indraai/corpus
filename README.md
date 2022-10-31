@@ -6,11 +6,13 @@ Here you will find the training corpus to get familiar with the core training of
 
 `> git clone https://github.com/indraai/corpus.git`
 
+[Feecting Corpus](https://github.com/indraai/corpus/blob/main/main.feecting)
+
 [Github Repo](https://github.com/indraai/corpus) - The source code repository for the corpus.
 
 ---
 
-[#CORPUS](https://github.com/indraai/corpus/blob/main/main.feecting) - The main training corpus for the Indra Quantuma Computing Environment Agents and Clients. Please make sure to become familiar with it's contents.
+The main training corpus for the Indra Quantum Computing Environment Agents and Clients.
 
 To train highly accurate machine learning models, a data corpus is essential. Corpus of data is useful across industries to generate beneficial insights, predictions, and decisions for businesses.
 

@@ -4,9 +4,11 @@ The Indra Quantum Computing Environment Corpus.
 
 Here you will find the training corpus to get familiar with the core training of the agents, and how the conversation begins.
 
-`> git clone https://github.com/indraai/corpus.git`
+Access the instructions from the deva.world interface.  
+`$ #feecting get https://indra.ai/corpus/main.feecting`
 
-[Feecting Corpus](https://github.com/indraai/corpus/blob/main/main.feecting)
+Clone the repository to your machine or server.  
+`> git clone https://github.com/indraai/corpus.git`
 
 [Github Repo](https://github.com/indraai/corpus) - The source code repository for the corpus.
 
